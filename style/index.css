@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* header */
+#header-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 100px;
+    padding: 10px;
+    position: sticky;
+    top: 0; right: 0;left: 0;
+    background-image: linear-gradient(to right,#fad0c4,#ffd1ff);
+   
+}
+#header-container h1,.sub-header-item{
+    width: 100%;
+}
+#header-container p{
+    font-size: 30px;
+}
+#header-container h1{
+    font-size: 4em;
+}
+#header-container p:hover,#header-container h1:hover{
+    color: red;
+    cursor: pointer;
+}
+.header-item{
+    width: 30%;
+    text-align: center;
+    display: flex;
+    line-height: 100px;
+}
+/* content */
+#content{
+    height: 400px;
+    padding: 100px;
+    background-image: linear-gradient(to right,#fad0c4,#ffd1ff);
+   
+}
+#content p{
+    width: 40%;
+    margin: auto;
+    font-size: 1.5em;
+}
+/* icon list và item */
+#awesomeicon>h1{
+    margin: 100px;
+    text-align: center;
+}
+#awesomeicon .icon_list{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+}
+#awesomeicon .icon_list .icon_item{
+    width: 25%;
+    margin: 20px 0;
+}
+.icon_list .icon_item .icon_name{
+    display: inline-block;
+    width: 90%;
+    padding-left: 15%;
+}

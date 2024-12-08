@@ -1,0 +1,151 @@
+Chương: Git và GitHub
+1. Giới thiệu về Git và GitHub
+
+Git là gì?
+
+Khái niệm về hệ thống quản lý phiên bản (Version Control System - VCS)
+
+Lịch sử phát triển của Git
+
+Lợi ích của việc sử dụng Git trong phát triển phần mềm
+
+GitHub là gì?
+
+Khái niệm và vai trò của GitHub
+
+Mối quan hệ giữa Git và GitHub
+
+Lợi ích của việc sử dụng GitHub cho dự án mã nguồn mở
+
+2. Cài đặt và cấu hình Git
+
+Cài đặt Git trên các hệ điều hành
+
+Windows
+
+macOS
+
+Linux
+
+Cấu hình Git
+
+Thiết lập thông tin người dùng (git config)
+
+Kiểm tra cài đặt Git
+
+3. Các khái niệm cơ bản trong Git
+
+Repository (Kho lưu trữ)
+
+Local Repository vs Remote Repository
+
+Commit
+
+Tạo và quản lý commit
+
+Branch (Nhánh)
+
+Tạo, chuyển nhánh và hợp nhất nhánh
+
+Merge và Rebase
+
+Khái niệm và sự khác biệt giữa merge và rebase
+
+4. Các lệnh Git cơ bản
+
+Khởi tạo và sao chép repository
+
+git init
+
+git clone
+
+Thêm, sửa và xóa tệp
+
+git add
+
+git commit
+
+git rm
+
+Xem lịch sử commit
+
+git log
+
+Làm việc với nhánh
+
+git branch
+
+git checkout
+
+git merge
+
+Đồng bộ hóa với repository từ xa
+
+git push
+
+git pull
+
+git fetch
+
+5. Giới thiệu về GitHub
+
+Tạo tài khoản GitHub
+
+Khởi tạo và cấu hình repository trên GitHub
+
+Tạo repository mới
+
+Kết nối repository local với GitHub (git remote add)
+
+Quản lý các thay đổi
+
+Pull Request
+
+Issues và Projects
+
+Cộng tác trên GitHub
+
+Forking và Pull Requests
+
+Code Review
+
+Sử dụng GitHub Actions để tự động hóa
+
+6. Demo thực hành Git và GitHub
+
+Tạo repository mới trên GitHub
+
+Hướng dẫn từng bước để tạo repository
+
+Clone repository về máy local
+
+Sử dụng git clone để sao chép repository từ GitHub
+
+Thực hiện thay đổi và commit
+
+Thêm file mới, chỉnh sửa và commit các thay đổi
+
+Tạo nhánh và làm việc với nhánh
+
+Tạo nhánh mới, chuyển đổi giữa các nhánh và merge nhánh
+
+Push và Pull
+
+Đẩy các thay đổi lên GitHub và kéo các thay đổi mới về
+
+Tạo Pull Request
+
+Cách tạo pull request và quy trình review code
+
+Sử dụng Issues và Projects
+
+Tạo và quản lý issues, sử dụng dự án để theo dõi tiến độ công việc
+
+Kết luận
+Tầm quan trọng của Git và GitHub trong phát triển phần mềm
+
+Đảm bảo tính toàn vẹn và theo dõi lịch sử các thay đổi
+
+Hỗ trợ cộng tác và làm việc nhóm hiệu quả
+
+Tạo nền tảng cho phát triển phần mềm mã nguồn mở và chia sẻ kiến thức

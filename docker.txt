@@ -1,0 +1,161 @@
+1. Giới thiệu về Docker
+
+Docker là gì?
+
+Khái niệm về container và nền tảng Docker
+
+Lịch sử phát triển và sự phát triển của Docker
+
+Lợi ích của việc sử dụng Docker trong phát triển phần mềm
+
+Khái niệm cơ bản về container hóa
+
+Sự khác biệt giữa container và máy ảo
+
+Các ứng dụng của Docker trong việc phát triển và triển khai phần mềm
+
+2. Cài đặt và cấu hình Docker
+
+Cài đặt Docker trên các hệ điều hành
+
+Windows
+
+macOS
+
+Linux
+
+Cấu hình Docker
+
+Thiết lập Docker daemon
+
+Cấu hình Docker để khởi động cùng hệ điều hành
+
+3. Các khái niệm cơ bản trong Docker
+
+Image (Hình ảnh)
+
+Khái niệm và vai trò của Docker image
+
+Tạo và quản lý Docker image
+
+Container
+
+Khái niệm và cách hoạt động của Docker container
+
+Tạo và quản lý Docker container
+
+Dockerfile
+
+Khái niệm và vai trò của Dockerfile
+
+Viết và sử dụng Dockerfile để tạo Docker image
+
+4. Các lệnh Docker cơ bản
+
+Quản lý image
+
+docker build
+
+docker pull
+
+docker push
+
+Quản lý container
+
+docker run
+
+docker stop
+
+docker start
+
+docker restart
+
+docker rm
+
+Kiểm tra trạng thái container
+
+docker ps
+
+docker logs
+
+docker inspect
+
+5. Docker Compose
+
+Giới thiệu về Docker Compose
+
+Khái niệm và lợi ích của Docker Compose
+
+Tạo tệp docker-compose.yml
+
+Cấu trúc và cú pháp cơ bản của Docker Compose file
+
+Quản lý nhiều container với Docker Compose
+
+docker-compose up
+
+docker-compose down
+
+docker-compose logs
+
+6. Quản lý dữ liệu trong Docker
+
+Volumes
+
+Khái niệm về Docker volumes
+
+Tạo và gắn kết Docker volumes
+
+Bind Mounts
+
+Khái niệm về Bind Mounts và sự khác biệt với Volumes
+
+Sử dụng Docker volumes và Bind Mounts
+
+docker volume create
+
+docker run -v
+
+docker-compose volumes
+
+7. Demo thực hành Docker
+
+Tạo Dockerfile
+
+Hướng dẫn từng bước viết Dockerfile và tạo Docker image
+
+Xây dựng và chạy container
+
+Sử dụng lệnh docker build và docker run để xây dựng và chạy container
+
+Sử dụng Docker Compose
+
+Viết tệp docker-compose.yml và quản lý các container với Docker Compose
+
+Quản lý dữ liệu với Docker
+
+Tạo và sử dụng volumes để lưu trữ dữ liệu container
+
+8. Triển khai ứng dụng với Docker
+
+Triển khai ứng dụng trên máy chủ
+
+Thiết lập môi trường Docker trên máy chủ
+
+Triển khai và quản lý ứng dụng với Docker
+
+Sử dụng Docker Swarm và Kubernetes
+
+Giới thiệu về Docker Swarm và Kubernetes
+
+So sánh và lựa chọn công cụ phù hợp cho triển khai ứng dụng
+
+9. Kết luận
+
+Tầm quan trọng của Docker trong phát triển và triển khai phần mềm
+
+Docker giúp tạo ra môi trường phát triển và triển khai nhất quán
+
+Docker hỗ trợ sự linh hoạt và tiết kiệm tài nguyên hệ thống
+
+Docker thúc đẩy cộng tác và tối ưu hóa quy trình CI/CD
