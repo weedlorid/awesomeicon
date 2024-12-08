@@ -340,6 +340,7 @@ function showiconlist(){
             <div class="icon_item"><span class="icon-flickr"></span><span class="icon_name">icon-flickr</span></div>
             <div class="icon_item"><span class="icon-flickr-alt"></span><span class="icon_name">icon-flickr-alt</span></div>
             <div class="icon_item"><span class="icon-instagram"></span><span class="icon_name">icon-instagram</span></div>
+            <div class="icon_item"><span class="icon-github"></span><span class="icon_name">icon-github</span></div>
         </div>`
 }
 document.onload=showiconlist()
